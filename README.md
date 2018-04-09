@@ -1,5 +1,3 @@
-[![CircleCI](https://circleci.com/gh/ertyui/moip-challenge/tree/master.svg?style=svg)](https://circleci.com/gh/ertyui/moip-challenge/tree/master)
-
 # spring-boot-medium
 
 Repository for the article example: [Blindando sua API Spring Boot com o padrão DTO](https://medium.com/p/44f97020d1a0/)
