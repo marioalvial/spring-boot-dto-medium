@@ -15,7 +15,7 @@ For building and running the application you need:
 First, clone the project and build locally:
 
 ```shell
-git clone https://github.com/ertyui/spring-boot-dto-medium.git
+git clone https://github.com/marioalvial/spring-boot-dto-medium.git
 ```
 
 Make sure you have a MySQL database called "dto".
